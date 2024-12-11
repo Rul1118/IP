@@ -15,6 +15,8 @@ import java.util.Scanner;
 public class EstructuresRepeticio2_3 {
 public static void main (String[] args) {
     Scanner scanner = new Scanner(System.in);
+    
+    // FUNCIONALIDAD NUEVA TRADUCCIDO AL CASTELLAN0
 
     // Definim les variables que utilitzarem per demanar els 4 blocs de la IP.
     int num1;
