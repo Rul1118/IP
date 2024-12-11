@@ -23,7 +23,7 @@ public static void main (String[] args) {
     int num4;
 
     // Demanem al usuari quatre vegades que introdueixi els numeros per formar la IP.
-    System.out.print("Introdueix els primers 3 numeros de la IP: ");
+    System.out.print("Escriu els primers 3 numeros de la IP: "); //Fem el canvi per la tasca 1 de Git
         num1 = scanner.nextInt();
 
     System.out.print("Introdueix els segons 3 numeros de la IP: ");
