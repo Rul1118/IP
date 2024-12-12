@@ -39,7 +39,7 @@ public static void main (String[] args) {
 
     // Fem una condicio per establir la classe de la IP nomes mirant els tres primers numeros i la mostrem per pantalla.
     if (num1 >0 && num1 <= 127) {
-        System.out.println("La IP es de Classe A. ");
+        System.out.println("La IP es de la Classe A. ");
     } else if (num1 >=128 && num1 <= 191) {
         System.out.println("La IP es de la Classe B.");
     } else if (num1 >=192 && num1<= 223) {
